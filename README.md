@@ -1,5 +1,5 @@
 # About Me:
-Software Developer, Kenya-Nairobi <br>💻 Passionate about full-stack development, AI/chatbot systems, and academic documentation*<br>📂 Actively building a portfolio with projects like [Buddy](https://github.com/Chaney-jpeg/Buddy-) — a supportive chatbot powered by Flask + Groq API  <br>🌱 Currently learning FileMaker and Machine Learning by walking through real-world projects step by step  <br>⚡ Skilled in Python, Flask, HTML/CSS, Git/GitHub, API integration, and technical writing  <br>📖 Interested in Machine Learning, business intelligence, and ethics in IT leadership<br>
+I'm a Software Developer based in Kenya-Nairobi <br>💻 Passionate about full-stack development, AI/chatbot systems, and academic documentation*<br>📂 Actively building a portfolio with projects like [Buddy](https://github.com/Chaney-jpeg/Buddy-) — a supportive chatbot powered by Flask + Groq API  <br>🌱 Currently learning FileMaker and Machine Learning by walking through real-world projects step by step  <br>⚡ Skilled in Python, Flask, HTML/CSS, Git/GitHub, API integration, and technical writing  <br>📖 Interested in Machine Learning, business intelligence, and ethics in IT leadership<br>
 
 
 ## Socials:
